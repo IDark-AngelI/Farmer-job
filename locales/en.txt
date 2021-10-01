@@ -1,0 +1,41 @@
+  -- Farmer Job Developed by Dark_Angel#0707 || Github: https://github.com/IDark-AngelI/
+  -- You can **only** download this script from my github (https://github.com/IDark-AngelI/)
+  -- fruit_marketplace: sale point blip 
+  ['fruit_marketplace'] = 'Fruit marketplace',
+
+  -- Mango
+  ['anbe_chidan']                 = 'Chidan Anbe',
+  ['anbe']                        = 'Anbe',
+  ['anbe_chidann']                = 'press ~INPUT_PICKUP~ baraye chidan Anbe',
+  ['shostan_anbe']                = 'Shostan Anbe',
+  ['shostan_anbe_g']              = 'press ~INPUT_PICKUP~ baraye Shostan Anbe ha',
+  ['anbe_package']                = 'Package Anbe',
+  ['anbe_shoste']                 = 'Anbe shoste shode',
+  ['package_kardane_anbe']        = 'press ~INPUT_PICKUP~ baraye Package kardane Anbe',
+  ['anbe_deliver']                = 'Forush Package Anbe',
+  ['anbe_deliver_g']              = 'press ~INPUT_PICKUP~ to deliver Package Anbe',
+
+  -- Orange
+  ['porteghal_chidan']                 = 'Chidan Porteghal',
+  ['porteghal']                        = 'Porteghal',
+  ['porteghal_chidann']                = 'press ~INPUT_PICKUP~ baraye chidan Porteghal',
+  ['shostan_porteghal']                = 'Shostan Porteghal',
+  ['shostan_porteghal_g']              = 'press ~INPUT_PICKUP~ baraye Shostan Porteghal ha',
+  ['orange_package']                = 'Package Porteghal',
+  ['porteghal_shoste']                 = 'Porteghal shoste shode',
+  ['package_kardane_porteghal']        = 'press ~INPUT_PICKUP~ baraye Package kardane Porteghal',
+  ['porteghal_deliver']                = 'Forush Package Porteghal',
+  ['porteghal_deliver_g']              = 'press ~INPUT_PICKUP~ to deliver Package Porteghal',
+
+  -- Apple
+  ['s_farmer_locker']              = 'Farmer Locker Room',
+  ['s_sib_chidan']                 = 'Chidan Sib',
+  ['s_sib']                        = 'sib',
+  ['s_sib_chidann']                = 'press ~INPUT_PICKUP~ baraye chidan sib',
+  ['s_shostan_sib']                = 'Shostan Sib',
+  ['s_shostan_sib_g']              = 'press ~INPUT_PICKUP~ baraye Shostan sib ha',
+  ['s_apple_package']                = 'Package Sib',
+  ['s_sib_p']                      = 'Sib shoste shode',
+  ['s_package_kardane_sib_g']      = 'press ~INPUT_PICKUP~ baraye Package kardane sib',
+  ['s_deliver_p']                  = 'Forush Package sib',
+  ['s_deliver_sp']                 = 'press ~INPUT_PICKUP~ to deliver Package Sib',
